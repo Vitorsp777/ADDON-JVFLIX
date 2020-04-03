@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B]FILMES[/B]</name>
+<name>FILMES</name>
 <thumbnail>https://ia802807.us.archive.org/11/items/fanart_20200112/FILMES%20IMG.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Vitorsp777/ADDON-JVFLIX/master/ENTRADA%20-%20FILMES</externallink>
 <fanart>https://assets.nflxext.com/ffe/siteui/vlv3/a1dc92ca-091d-4ca9-a05b-8cd44bbfce6a/2a4995aa-4d59-444f-aa6c-e8793204a204/BR-pt-20191230-popsignuptwoweeks-perspective_alpha_website_large.jpg</fanart>
@@ -10,9 +10,9 @@
 
 <channels>
 <channel>
-<name>[B]SERIES[/B]</name>
+<name>SERIES</name>
 <thumbnail>https://ia902809.us.archive.org/19/items/iconeseries/Icone%20Series.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/Vitorsp777/ADDON-JVFLIX/master/ENTRADA%20SERIES</externallink>
 <fanart>https://assets.nflxext.com/ffe/siteui/vlv3/a1dc92ca-091d-4ca9-a05b-8cd44bbfce6a/2a4995aa-4d59-444f-aa6c-e8793204a204/BR-pt-20191230-popsignuptwoweeks-perspective_alpha_website_large.jpg</fanart>
 <info></info>
 </channel>
